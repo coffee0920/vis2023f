@@ -1,0 +1,14 @@
+{
+  "name": "eecbb52014b63546",
+  "main": "eecbb52014b63546@68.js",
+  "version": "68.0.0",
+  "homepage": "https://observablehq.com/d/eecbb52014b63546",
+  "author": {
+    "name": "Ray Wei's Workspace",
+    "url": "https://observablehq.com/@ray-wei-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
