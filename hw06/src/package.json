@@ -1,0 +1,14 @@
+{
+  "name": "cce18e2678691517",
+  "main": "cce18e2678691517@54.js",
+  "version": "54.0.0",
+  "homepage": "https://observablehq.com/d/cce18e2678691517",
+  "author": {
+    "name": "Ray Wei's Workspace",
+    "url": "https://observablehq.com/@ray-wei-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
